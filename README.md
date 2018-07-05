@@ -10,3 +10,6 @@ git 命令操作联系
 
 dev alter test
 
+## bug issue
+git checkout -b issue
+
