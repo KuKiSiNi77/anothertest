@@ -12,4 +12,5 @@ dev alter test
 
 ## bug issue
 git checkout -b issue
+fix bug
 
