@@ -1,2 +1,2 @@
 # anothertest
-git 命令操作联系
+git 命令编辑
