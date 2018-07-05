@@ -14,3 +14,5 @@ dev alter test
 git checkout -b issue
 fix bug
 
+## stash
+`git stash`
