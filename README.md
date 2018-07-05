@@ -1,2 +1,3 @@
 # anothertest
-git 命令编辑
+
+git 命令编辑和联系
